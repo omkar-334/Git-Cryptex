@@ -4,7 +4,7 @@
 <summary><h3>1. Login to your GitHub Account by heading over to <a href="https://github.com">github.com</a></h3></summary>
 <br>
 <ul>
-   <li>Open the <a href="https://github.com/Dhruv16S/Enabling-Pull-Requests">current repo</a> in a new tab.</li>
+   <li>Open the <a href="https://github.com/cbitosc/OpenSys-GitCryptex-Brave">current repo</a> in a new tab.</li>
    <li>Perform all operations in the newly opened tab, and follow the current tab for instructions.</li>
 </ul>
 </details>
